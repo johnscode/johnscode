@@ -8,7 +8,7 @@ Co-inventor on several patents. MS in Computer Engineering and a BS Electrical E
 
 Check out these repos:
 - [AI Chat Assistant using Claude 3](https://github.com/johnscode/claudius-saas) - A basic chat assistant built using NextReact.js and React
-- [A boilerplate SaaS using OpenAI and Replicate](https://github.com/johnscode/next14-ai-saas) - this is pretty well-featured with integrations to Clerk, Crisp, and Stripe. Built  using NextReact.js and React
+- [A boilerplate SaaS using OpenAI and Replicate](https://github.com/johnscode/next14-ai-saas) - this is pretty well-featured with integrations to Clerk, Crisp, and Stripe. Built  using Next.js and React
 - [Python Notebook demonstrating news classification](https://github.com/johnscode/py-news-classification)
 - Python Notebook for Titanic Challenge 
 
