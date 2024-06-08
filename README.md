@@ -31,6 +31,13 @@ Check out these repos:
 ![](https://img.shields.io/badge/Tool-AWS-informational?style=flat&color=warning&logo=amazon)
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&color=warning&logo=git)
 
+### Patents _(in case you're interested)_
+- Method and system for monitoring computer networks and equipment US6714977
+- Multi-dimensional vector-based occupancy sensor and method of operating same US6759954
+- Occupancy sensor and method of operating same US6415205
+- Occupancy sensor and method of operating same US6078253
+- Occupancy sensor and method of operating same US5986357
+
 ### Fun Fact
 Founder of an early IoT startup during the dot-com days (that was before IoT was a thing)
 
