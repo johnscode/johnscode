@@ -10,7 +10,14 @@ Check out these repos:
 - [AI Chat Assistant using Claude 3](https://github.com/johnscode/claudius-saas) - A basic chat assistant built using NextReact.js and React
 - [A boilerplate SaaS using OpenAI and Replicate](https://github.com/johnscode/next14-ai-saas) - this is pretty well-featured with integrations to Clerk, Crisp, and Stripe. Built  using Next.js and React
 - [Python Notebook demonstrating news classification](https://github.com/johnscode/py-news-classification)
-- Python Notebook for Titanic Challenge 
+- Python Notebook for Titanic Challenge
+
+## Some Useful Boilerplate Code I Have Used
+- [Microservice using Golang and chi](https://github.com/johnscode/go-chi-microservice-template) *lots of runtime on this one*
+- [Node.js and Mongo REST service](https://github.com/johnscode/node-mongo-template) *used some version of this too many times to count*
+- [Webapp template using Golang and Fiber](https://github.com/johnscode/go-fiber-template)
+- [Webservice template using Python, Django, and MongoDB](https://github.com/johnscode/py-django-mongo)
+- [Webservice template using Python, Flask, and MongoDB](https://github.com/johnscode/py-flask-mongo) 
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&color=informational&logo=go)
