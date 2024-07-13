@@ -23,6 +23,7 @@ Check out these repos:
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&color=informational&logo=go)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&color=informational&logo=ruby)
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&color=informational&logo=python)
 ![](https://img.shields.io/badge/Code-Express-blue?style=flat&logo=express)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational&logo=typescript)
