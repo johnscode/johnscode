@@ -15,6 +15,7 @@ Check out these repos:
 ## Some Useful Boilerplate Code I Have Used
 - [Microservice using Golang and chi](https://github.com/johnscode/go-chi-microservice-template) *lots of runtime on this one*
 - [Node.js and Mongo REST service](https://github.com/johnscode/node-mongo-template) *used some version of this too many times to count*
+- [Node.js and PostgreSql REST service](https://github.com/johnscode/node-postgres-template) 
 - [Webapp template using Golang and Fiber](https://github.com/johnscode/go-fiber-template)
 - [REST Microservice template using Golang and Echo](https://github.com/johnscode/go-echo-template)
 - [Webservice template using Python, Django, and MongoDB](https://github.com/johnscode/py-django-mongo)
