@@ -16,7 +16,7 @@ Check out these repos:
 I have a running series of blog posts related to data structures and algorithms in Golang that you can find it [here](https://dev.to/johnscode/series/27729). Here is the repository for all the code in those posts.
 - [Go coding challenge code](https://github.com/johnscode/gocodingchallenges)
 
-## Some Useful Boilerplate Code I Have Used
+## Some Useful Boilerplate Code I Developed
 - [Microservice using Golang and gofr using postgres with seed db and migration pattern](https://github.com/johnscode/go-gofr-template) *this is what i have been using lately*
 - [Microservice using Golang and chi](https://github.com/johnscode/go-chi-microservice-template) *lots of runtime on this one*
 - [Node.js and Mongo REST service](https://github.com/johnscode/node-mongo-template) *used some version of this too many times to count*
