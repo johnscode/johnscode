@@ -4,6 +4,8 @@ Experienced development leader with decades of experience having successfully bu
 Have architected, built, and delivered scalable, reliable systems for IoT, Enterprise Software, Mobile, and SaaS.  
 Co-inventor on several patents. MS in Computer Engineering and a BS Electrical Engineering.
 
+I post thoughts on dev topics at [dev.to](https://dev.to/johnscode)
+
 ## Recently playing around with AI and SaaS 
 
 Check out these repos:
