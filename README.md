@@ -15,7 +15,7 @@ Check out these repos:
 - Python Notebook for Titanic Challenge
 
 ## Golang coding exercises
-I have a running series of blog posts related to data structures and algorithms in Golang that you can find it [here](https://dev.to/johnscode/series/27729). Here is the repository for all the code in those posts.
+I have a running series of blog posts related to data structures and algorithms in Golang that you can find [here](https://dev.to/johnscode/series/27729). Here is the repository for all the code in those posts.
 - [Go coding challenge code](https://github.com/johnscode/gocodingchallenges)
 
 ## Some Useful Boilerplate Code I Developed
