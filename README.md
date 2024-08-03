@@ -19,8 +19,9 @@ I have a running series of blog posts related to data structures and algorithms 
 - [Go coding challenge code](https://github.com/johnscode/gocodingchallenges)
 
 ## Some Useful Boilerplate Code I Developed
-- [Microservice using Golang and gofr using postgres with seed db and migration pattern](https://github.com/johnscode/go-gofr-template) *this is what i have been using lately*
+- [Microservice using Golang and gofr using postgres with seed db and migration pattern](https://github.com/johnscode/go-gofr-template) *this has a lot of promise*
 - [Microservice using Golang and chi](https://github.com/johnscode/go-chi-microservice-template) *lots of runtime on this one*
+- [Microservice using Python, FastAPI, and Mongo](https://github.com/johnscode/py-fastapi-mongo) *very nice when you have to use python for the microservice*
 - [Node.js and Mongo REST service](https://github.com/johnscode/node-mongo-template) *used some version of this too many times to count*
 - [Node.js and PostgreSql REST service](https://github.com/johnscode/node-postgres-template) 
 - [Webapp template using Golang and Fiber](https://github.com/johnscode/go-fiber-template)
