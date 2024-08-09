@@ -27,7 +27,13 @@ I have a running series of blog posts related to data structures and algorithms 
 - [Webapp template using Golang and Fiber](https://github.com/johnscode/go-fiber-template)
 - [REST Microservice template using Golang and Echo](https://github.com/johnscode/go-echo-template)
 - [Webservice template using Python, Django, and MongoDB](https://github.com/johnscode/py-django-mongo)
-- [Webservice template using Python, Flask, and MongoDB](https://github.com/johnscode/py-flask-mongo) 
+- [Webservice template using Python, Flask, and MongoDB](https://github.com/johnscode/py-flask-mongo)
+
+## Some React Applications I have written
+- [AI Chat Assistant using Claude 3](https://github.com/johnscode/claudius-saas) - A basic chat assistant built using Next.js and React
+- [A boilerplate SaaS using OpenAI and Replicate](https://github.com/johnscode/next14-ai-saas) - this is pretty well-featured with integrations to Clerk, Crisp, and Stripe. Built  using Next.js and React
+- [A Simple Calculator App](https://github.com/johnscode/react-calculator) - The source code from this [blog post](https://dev.to/johnscode/creating-a-calculator-app-using-reactnext-4j4n) on dev.to
+
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&color=informational&logo=go)
