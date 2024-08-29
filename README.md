@@ -4,7 +4,6 @@ Experienced development leader with decades of experience having successfully bu
 Have architected, built, and delivered scalable, reliable systems for IoT, Enterprise Software, Mobile, and SaaS.  
 Co-inventor on several patents. MS in Computer Engineering and a BS Electrical Engineering.
 
-I post thoughts on dev topics at [dev.to](https://dev.to/johnscode)
 
 ## Recently playing around with AI and SaaS 
 
@@ -14,9 +13,6 @@ Check out these repos:
 - [Python Notebook demonstrating news classification](https://github.com/johnscode/py-news-classification)
 - Python Notebook for Titanic Challenge
 
-## Golang coding exercises
-I have a running series of blog posts related to data structures and algorithms in Golang that you can find [here](https://dev.to/johnscode/series/27729). Here is the repository for all the code in those posts.
-- [Go coding challenge code](https://github.com/johnscode/gocodingchallenges)
 
 ## Some Useful Boilerplate Code I Developed
 - [Microservice using Golang and gofr using postgres with seed db and migration pattern](https://github.com/johnscode/go-gofr-template) *this has a lot of promise*
