@@ -4,8 +4,11 @@ Experienced development leader with decades of experience having successfully bu
 Have architected, built, and delivered scalable, reliable systems for IoT, Enterprise Software, Mobile, and SaaS.  
 Co-inventor on several patents. MS in Computer Engineering and a BS Electrical Engineering.
 
+## Building an IoT aggregation service
 
-## Recently playing around with AI and SaaS 
+- [A basic MQTT broker Docker setup using Eclipse Mosquitto](https://github.com/johnscode/mqtt) - Really useful when you wnat to spin up a broker to test code or monitor a few devices.
+
+## Recently playing around with AI and LLMs 
 
 Check out these repos:
 - [AI Chat Assistant using Claude 3](https://github.com/johnscode/claudius-saas) - A basic chat assistant built using Next.js and React
