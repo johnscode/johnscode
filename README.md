@@ -6,7 +6,9 @@ Co-inventor on several patents. MS in Computer Engineering and a BS Electrical E
 
 ## Building an IoT aggregation service
 
+- [A Cluster-capable MQTT broker Docker setup using EMQX broker](https://github.com/johnscode/emqxmqtt) - EMQX is more appropriate for large number of devices since it is readily clusterable.
 - [A basic MQTT broker Docker setup using Eclipse Mosquitto](https://github.com/johnscode/mqtt) - Really useful when you wnat to spin up a broker to test code or monitor a few devices.
+
 
 ## Recently playing around with AI and LLMs 
 
