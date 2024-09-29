@@ -13,6 +13,7 @@ Co-inventor on several patents. MS in Computer Engineering and a BS Electrical E
 ## Recently playing around with AI and LLMs 
 
 Check out these repos:
+- [A Golang implementation of basic RAG using Claude and Weaviate](https://github.com/johnscode/go-rag-simple) 
 - [AI Chat Assistant using Claude 3](https://github.com/johnscode/claudius-saas) - A basic chat assistant built using Next.js and React
 - [A boilerplate SaaS using OpenAI and Replicate](https://github.com/johnscode/next14-ai-saas) - this is pretty well-featured with integrations to Clerk, Crisp, and Stripe. Built  using Next.js and React
 - [Python Notebook demonstrating news classification](https://github.com/johnscode/py-news-classification)
