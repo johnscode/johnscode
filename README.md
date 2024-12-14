@@ -19,6 +19,8 @@ Check out these repos:
 - [Python Notebook demonstrating news classification](https://github.com/johnscode/py-news-classification)
 - Python Notebook for Titanic Challenge
 
+## Some Fun iOS projects
+- [iOS Drum Machine](https://github.com/johnscode/drummachine)
 
 ## Some Useful Boilerplate Code I Developed
 - [Microservice using Golang and gofr using postgres with seed db and migration pattern](https://github.com/johnscode/go-gofr-template) *this has a lot of promise*
