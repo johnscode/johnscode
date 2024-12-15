@@ -21,6 +21,7 @@ Check out these repos:
 
 ## Some Fun iOS projects
 - [iOS Drum Machine](https://github.com/johnscode/drummachine)
+- [3 Star Rating Indicator](https://github.com/johnscode/star-rating-control)
 
 ## Some Useful Boilerplate Code I Developed
 - [Microservice using Golang and gofr using postgres with seed db and migration pattern](https://github.com/johnscode/go-gofr-template) *this has a lot of promise*
