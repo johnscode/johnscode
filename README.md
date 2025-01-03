@@ -20,6 +20,7 @@ Check out these repos:
 - Python Notebook for Titanic Challenge
 
 ## Some Fun iOS projects
+- [iOS Midi Chromatic Scale Player](https://github.com/johnscode/musicgeometry)
 - [iOS Drum Machine](https://github.com/johnscode/drummachine)
 - [3 Star Rating Indicator](https://github.com/johnscode/star-rating-control)
 
